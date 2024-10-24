@@ -1,6 +1,6 @@
 ---
 title: 첫 번째 블로그 포스트
-date: 2024-10-24 12:00:00 +0900
+date: 2024-10-24 00:00:00 +0900
 categories: [Blog, Tutorial]
 tags: [blog, jekyll, chirpy]
 ---
